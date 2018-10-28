@@ -70,6 +70,10 @@ noremap <S-F6> <C-W>W
 noremap <SPACE> :
 
 
+" change tabs with tab
+nnoremap <s-tab> gT
+nnoremap <tab> gt
+
 "_______________________________________________________________________
 "Mappings for insert mode
 
