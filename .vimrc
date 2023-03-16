@@ -39,7 +39,7 @@ autocmd FileType * setlocal formatoptions-=cro
 " set the color scheme
 set termguicolors
 set t_Co=256
-colorscheme summerfruit256
+colorscheme darkblue
 
 "_______________________________________________________________________
 "MAPPINGS for normal mode
